@@ -20,7 +20,7 @@ limitations under the License.
 
 # doWhile
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Invoke a function while a test condition is true.
 
@@ -155,11 +155,11 @@ doWhile( log, predicate );
 
 ## See Also
 
--   [`@stdlib/utils/do-until`][@stdlib/utils/do-until]: invoke a function until a test condition is true.
--   [`@stdlib/utils/async/do-while`][@stdlib/utils/async/do-while]: invoke a function while a test condition is true.
--   [`@stdlib/utils/do-while-each`][@stdlib/utils/do-while-each]: while a test condition is true, invoke a function for each element in a collection.
--   [`@stdlib/utils/until`][@stdlib/utils/until]: invoke a function until a test condition is true.
--   [`@stdlib/utils/while`][@stdlib/utils/while]: invoke a function while a test condition is true.
+-   <span class="package-name">[`@stdlib/utils/do-until`][@stdlib/utils/do-until]</span><span class="delimiter">: </span><span class="description">invoke a function until a test condition is true.</span>
+-   <span class="package-name">[`@stdlib/utils/async/do-while`][@stdlib/utils/async/do-while]</span><span class="delimiter">: </span><span class="description">invoke a function while a test condition is true.</span>
+-   <span class="package-name">[`@stdlib/utils/do-while-each`][@stdlib/utils/do-while-each]</span><span class="delimiter">: </span><span class="description">while a test condition is true, invoke a function for each element in a collection.</span>
+-   <span class="package-name">[`@stdlib/utils/until`][@stdlib/utils/until]</span><span class="delimiter">: </span><span class="description">invoke a function until a test condition is true.</span>
+-   <span class="package-name">[`@stdlib/utils/while`][@stdlib/utils/while]</span><span class="delimiter">: </span><span class="description">invoke a function while a test condition is true.</span>
 
 </section>
 
@@ -210,8 +210,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-do-while/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-do-while?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-do-while.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-do-while/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
